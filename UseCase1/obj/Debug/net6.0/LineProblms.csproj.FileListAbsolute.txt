@@ -1,0 +1,15 @@
+C:\Users\Saif\source\repos\UseCase1\obj\Debug\net6.0\LineProblms.csproj.AssemblyReference.cache
+C:\Users\Saif\source\repos\UseCase1\obj\Debug\net6.0\LineProblms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saif\source\repos\UseCase1\obj\Debug\net6.0\LineProblms.AssemblyInfoInputs.cache
+C:\Users\Saif\source\repos\UseCase1\obj\Debug\net6.0\LineProblms.AssemblyInfo.cs
+C:\Users\Saif\source\repos\UseCase1\obj\Debug\net6.0\LineProblms.csproj.CoreCompileInputs.cache
+C:\Users\Saif\source\repos\UseCase1\bin\Debug\net6.0\LineProblms.exe
+C:\Users\Saif\source\repos\UseCase1\bin\Debug\net6.0\LineProblms.deps.json
+C:\Users\Saif\source\repos\UseCase1\bin\Debug\net6.0\LineProblms.runtimeconfig.json
+C:\Users\Saif\source\repos\UseCase1\bin\Debug\net6.0\LineProblms.dll
+C:\Users\Saif\source\repos\UseCase1\bin\Debug\net6.0\LineProblms.pdb
+C:\Users\Saif\source\repos\UseCase1\obj\Debug\net6.0\LineProblms.dll
+C:\Users\Saif\source\repos\UseCase1\obj\Debug\net6.0\refint\LineProblms.dll
+C:\Users\Saif\source\repos\UseCase1\obj\Debug\net6.0\LineProblms.pdb
+C:\Users\Saif\source\repos\UseCase1\obj\Debug\net6.0\LineProblms.genruntimeconfig.cache
+C:\Users\Saif\source\repos\UseCase1\obj\Debug\net6.0\ref\LineProblms.dll
