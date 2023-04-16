@@ -1,0 +1,15 @@
+C:\Users\Saif\source\repos\Array_Practise\bin\Debug\net6.0\Array_Practise.exe
+C:\Users\Saif\source\repos\Array_Practise\bin\Debug\net6.0\Array_Practise.deps.json
+C:\Users\Saif\source\repos\Array_Practise\bin\Debug\net6.0\Array_Practise.runtimeconfig.json
+C:\Users\Saif\source\repos\Array_Practise\bin\Debug\net6.0\Array_Practise.dll
+C:\Users\Saif\source\repos\Array_Practise\bin\Debug\net6.0\Array_Practise.pdb
+C:\Users\Saif\source\repos\Array_Practise\obj\Debug\net6.0\Array_Practise.csproj.AssemblyReference.cache
+C:\Users\Saif\source\repos\Array_Practise\obj\Debug\net6.0\Array_Practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saif\source\repos\Array_Practise\obj\Debug\net6.0\Array_Practise.AssemblyInfoInputs.cache
+C:\Users\Saif\source\repos\Array_Practise\obj\Debug\net6.0\Array_Practise.AssemblyInfo.cs
+C:\Users\Saif\source\repos\Array_Practise\obj\Debug\net6.0\Array_Practise.csproj.CoreCompileInputs.cache
+C:\Users\Saif\source\repos\Array_Practise\obj\Debug\net6.0\Array_Practise.dll
+C:\Users\Saif\source\repos\Array_Practise\obj\Debug\net6.0\refint\Array_Practise.dll
+C:\Users\Saif\source\repos\Array_Practise\obj\Debug\net6.0\Array_Practise.pdb
+C:\Users\Saif\source\repos\Array_Practise\obj\Debug\net6.0\Array_Practise.genruntimeconfig.cache
+C:\Users\Saif\source\repos\Array_Practise\obj\Debug\net6.0\ref\Array_Practise.dll
